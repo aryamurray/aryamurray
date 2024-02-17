@@ -18,7 +18,7 @@
         💽I'm currently learning more about serverless systems and machine learnig
     </li>
     <li>
-        📝I've begun my own <a href="clarkyy.ca/blog">blog</a>
+        📝I've begun my own <a href="https://clarkyy.ca/blog">blog</a>
     </li>
     <li>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/255px-Flag_of_South_Korea.svg.png" alt="🇰🇷" height="14">I'm planning an exhange to Korea for next fall ! 
