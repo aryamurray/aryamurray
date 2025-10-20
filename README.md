@@ -1,4 +1,4 @@
-<h2>Welcome to <a href="https://clarkyy.ca">Clarkyy's</a> Corner 👋</h2>
+<h2>Welcome to Clarkyy's Corner 👋</h2>
 
 <p>I'm a current computer science student at Western University. I'm currently working on some side projects, perfecting my cooking skills🥑, and attmping find 💽foreign vinyl records(to no avail)😔</p>
 
