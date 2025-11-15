@@ -1,37 +1,20 @@
-<h2>Welcome to Clarkyy's Corner 👋</h2>
+<p align="center">
+  <samp>
+    curious mind • builds things that shouldn't work but do • ML + geospatial enjoyer  
+    <br>learning languages, cooking, and why transit systems are the way they are  
+  </samp>
+</p>
 
-<p>I'm a current computer science student at Western University. I'm currently working on some side projects, perfecting my cooking skills🥑, and attmping find 💽foreign vinyl records(to no avail)😔</p>
-
-<p>Please message me song reccomendations, it's always appreciated🤩</p>
-<p>You can find my latest Spotify status Below in real time !</p>
-
+<p align="center">
+  <img src="https://spotify-now-playing-svg-git-main-inuayasha.vercel.app/api" width="460" height="120" alt="Spotify Now Playing"/>
+</p>
 
 ---
 
+### 🌱 About Me
 
-<img align="right" src="https://spotify-now-playing-svg-git-main-inuayasha.vercel.app/api" width="460" height="120">
+- 🇨🇦 Canadian CS student with a love for applied ML, maps, and real-world data  
+- 🇰🇷 Spent a year living in Seoul — can understand a lot of Korean, speaking TBD 😅  
+- 🍳 Probably cooking something new right now  
+- 🗺️ Low-key obsessed with transit networks and why cities look the way they do  
 
-<h2>⚡️Some Quick Info</h2>
-
-<ul>
-    <li>
-        💽I'm currently learning more about machine learning and it's applications
-    </li>
-    <li>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/255px-Flag_of_South_Korea.svg.png" alt="🇰🇷" height="14">I've just returned to Canada from a year living in Seoul, SK ! 
-    </li>
-</ul>
-
-<!-- 
-<h2>Here's some tech I use</h2>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" /> -->
