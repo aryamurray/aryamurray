@@ -16,5 +16,5 @@
 - 🇨🇦 Canadian CS student with a love for applied ML, maps, and real-world data  
 - 🇰🇷 Spent a year living in Seoul — can understand a lot of Korean, speaking TBD 😅  
 - 🍳 Probably cooking something new right now  
-- 🗺️ Low-key obsessed with transit networks and why cities look the way they do  
+- 🗺️ love transit networks and why cities look the way they do  
 
